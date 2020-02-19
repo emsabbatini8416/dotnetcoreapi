@@ -55,7 +55,6 @@ namespace API.Migrations
                 table: "Permisos",
                 column: "TipoPermisoId");
 
-
             migrationBuilder.InsertData(
                 schema: "dbo",
                 table: "TipoPermisos",
