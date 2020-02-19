@@ -1,0 +1,16 @@
+/Users/emsabbatini/Git/Others/API/API/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/emsabbatini/Git/Others/API/API/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/emsabbatini/Git/Others/API/API/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/emsabbatini/Git/Others/API/API/bin/Debug/netcoreapp2.2/API.deps.json
+/Users/emsabbatini/Git/Others/API/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.json
+/Users/emsabbatini/Git/Others/API/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.dev.json
+/Users/emsabbatini/Git/Others/API/API/bin/Debug/netcoreapp2.2/API.dll
+/Users/emsabbatini/Git/Others/API/API/bin/Debug/netcoreapp2.2/API.pdb
+/Users/emsabbatini/Git/Others/API/API/obj/Debug/netcoreapp2.2/API.csprojAssemblyReference.cache
+/Users/emsabbatini/Git/Others/API/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cache
+/Users/emsabbatini/Git/Others/API/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cs
+/Users/emsabbatini/Git/Others/API/API/obj/Debug/netcoreapp2.2/API.AssemblyInfoInputs.cache
+/Users/emsabbatini/Git/Others/API/API/obj/Debug/netcoreapp2.2/API.AssemblyInfo.cs
+/Users/emsabbatini/Git/Others/API/API/obj/Debug/netcoreapp2.2/API.RazorTargetAssemblyInfo.cache
+/Users/emsabbatini/Git/Others/API/API/obj/Debug/netcoreapp2.2/API.dll
+/Users/emsabbatini/Git/Others/API/API/obj/Debug/netcoreapp2.2/API.pdb
