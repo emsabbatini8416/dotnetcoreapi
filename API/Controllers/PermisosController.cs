@@ -41,7 +41,7 @@ namespace API.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutPermiso(int id, Permiso permiso)
         {
-            if (id != permiso.PermisoId)
+            if (id != permiso.Id)
             {
                 return BadRequest();
             }
@@ -73,7 +73,7 @@ namespace API.Controllers
             _context.Permisos.Add(permiso);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetMovie", new { id = permiso.PermisoId }, permiso);
+            return CreatedAtAction("GetMovie", new { id = permiso.Id }, permiso);
         }
 
         [HttpDelete("{id}")]
@@ -93,7 +93,7 @@ namespace API.Controllers
 
         private bool PermisoExists(int id)
         {
-            return _context.Permisos.Any(e => e.PermisoId == id);
+            return _context.Permisos.Any(e => e.Id == id);
         }
     }
 }

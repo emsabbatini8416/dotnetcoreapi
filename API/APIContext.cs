@@ -10,5 +10,6 @@ namespace API
 
         }
         public DbSet<Permiso> Permisos { get; set; }
+        public DbSet<TipoPermiso> TipoPermisos { get; set; }
     }
 }

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace API.Models
 {
-    [Table("TipoPermiso", Schema = "dbo")]
+    [Table("TipoPermisos", Schema = "dbo")]
     public class TipoPermiso
     {
         [Key]
